@@ -1,1 +1,1 @@
-# Cat-and-Dog-Image-Classification-Using-CNN
+The goal of this project was to build a Convolutional Neural Network (CNN) to classify images of cats and dogs using the dataset available on Kaggle. This report outlines the methodology, implementation, and performance evaluation of the image classification model. 
